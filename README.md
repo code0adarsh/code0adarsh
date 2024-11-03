@@ -21,7 +21,7 @@
   <a href="https://x.com/codedemon5" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codedemon5" height="30" width="40" />
   </a>
-  <a href="https://https://www.linkedin.com/in/adarshpradhan/" target="blank">
+  <a href="https://https://www.linkedin.com/adarshpradhan/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshpradhan" height="30" width="40" />
   </a>
   <a href="https://instagram.com/whos.adarsh" target="blank">
